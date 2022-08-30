@@ -9,9 +9,10 @@ body {
 h1 {
     color: white;
     font-size: 50px;
+    font-weight: normal;
 }
 
-p {
+.link {
     color: aquamarine;
     font-size: 16px;;
 }
@@ -25,4 +26,12 @@ h2 {
 h4 {
     color: gray;
     font-size: 21px;
+    font-weight: normal;
+}
+
+.copyright {
+    text-align: right;
+    color: grey;
+    font-size: 21px;
+
 }
